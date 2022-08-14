@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Add github URL here](https://your-solution-url.com)
+- Github URL:https://github.com/Akash-kumar-2021/Time-Tracker-Dashboard/tree/main/time-tracking-dashboard-main
 - Live Site URL: https://delicate-daffodil-60a5e7.netlify.app/
 
 ### Built with
@@ -27,6 +27,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://delicate-daffodil-60a5e7.netlify.app/
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
